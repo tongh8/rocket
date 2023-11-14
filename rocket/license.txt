@@ -1,0 +1,11 @@
+Model Information:
+* title:	Rocket
+* source:	https://sketchfab.com/3d-models/rocket-48bf0206b9724a28814d299d93b7602a
+* author:	stevespencer (https://sketchfab.com/stevespencer)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Rocket" (https://sketchfab.com/3d-models/rocket-48bf0206b9724a28814d299d93b7602a) by stevespencer (https://sketchfab.com/stevespencer) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
